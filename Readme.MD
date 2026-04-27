@@ -30,13 +30,7 @@ The script prints the Exercise 1 distance table, the predictions for every
 (metric, k) combination, the full Exercise 2 results table, and saves all
 figures to the working directory.
 
-## Quick start (LaTeX)
 
-```bash
-# Make sure the .png files referenced in the .tex are in the same folder
-pdflatex classification_documentation.tex
-pdflatex classification_documentation.tex   # second pass for the ToC
-```
 
 A pre-built PDF is included so you do not have to compile if you only want
 to read.
